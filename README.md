@@ -56,6 +56,6 @@ Within days an attacker logged into MySQL as `root`, dropped three databases and
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/rahul-patnala
+<a href="https://linkedin.com/in/rahul-patnala"><img alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+
